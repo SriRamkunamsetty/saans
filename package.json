@@ -1,7 +1,7 @@
 {
   "name": "saans",
   "version": "1.0.0",
-  "description": "Saans — a GenAI-assisted urban air quality assistant that turns live smog data into a personalised, explainable plan for families and communities.",
+  "description": "A GenAI urban air quality assistant built with Next.js, TypeScript, Gemini API & Open-Meteo. Turns live smog data into a personalised, explainable plan for families and communities.",
   "author": "SriRam Kunamsetty <mohansriramkunamsetty@gmail.com>",
   "private": true,
   "engines": {
